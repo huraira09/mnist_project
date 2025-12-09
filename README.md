@@ -17,6 +17,7 @@ python -m venv venv
 
 Activate it:
 source venv/bin/activate
+if you using fish instead of using bash include .fish for activation
 
 Why:
 Keeps your project libraries separate
